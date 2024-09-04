@@ -14,6 +14,7 @@
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078C0.svg?style=for-the-badge&logo=Alteryx&logoColor=white)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
 ![Trino](https://img.shields.io/badge/Trino-DD00A1.svg?style=for-the-badge&logo=Trino&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
