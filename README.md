@@ -1,5 +1,6 @@
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From data analysis using Python, SQL, and Alteryx to the continuous exploration of new technologies, I am passionate about leveraging them to develop high-quality solutions. Currently, I am a junior data analyst with a strong focus on data manipulation and process automation.</p>&nbsp;
-
+I build automation solutions that make processes smarter and faster.
+<br><br>
+With strong expertise in Python and RPA, I specialize in developing end-to-end automations that eliminate manual tasks, integrate systems, and improve operational efficiency. I’ve worked on projects involving data pipelines, API integrations, and process automation using tools like Alteryx and SQL. I'm passionate about using code to solve real-world problems and constantly explore new technologies to boost productivity.
 &nbsp;
 
 ## My Skills
