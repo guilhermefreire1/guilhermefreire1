@@ -8,10 +8,10 @@ With strong expertise in Python and RPA, I specialize in developing end-to-end a
 #### 🚀 Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![UiPath](https://img.shields.io/badge/UiPath-FE3C00.svg?style=for-the-badge&logo=uipath&logoColor=white)
+![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF6D00.svg?style=for-the-badge&logo=automationanywhere&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078C0.svg?style=for-the-badge&logo=Alteryx&logoColor=white)&nbsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
-![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
-![Trino](https://img.shields.io/badge/Trino-DD00A1.svg?style=for-the-badge&logo=Trino&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
