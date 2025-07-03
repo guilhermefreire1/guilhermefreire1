@@ -10,7 +10,7 @@ With strong expertise in Python and RPA, I specialize in developing end-to-end a
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![UiPath](https://img.shields.io/badge/UiPath-FE3C00.svg?style=for-the-badge&logo=uipath&logoColor=white)
 ![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF6D00.svg?style=for-the-badge&logo=automationanywhere&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078C0.svg?style=for-the-badge&logo=Alteryx&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
