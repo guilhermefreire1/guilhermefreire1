@@ -1,7 +1,6 @@
-I build automation solutions that make processes smarter and faster.
+I build data-driven automation solutions to streamline and scale processes.
 <br><br>
-With strong expertise in Python and RPA, I specialize in developing end-to-end automations that eliminate manual tasks, integrate systems, and improve operational efficiency. I’ve worked on projects involving data pipelines, API integrations, and process automation using tools like Alteryx and SQL. I'm passionate about using code to solve real-world problems and constantly explore new technologies to boost productivity.
-&nbsp;
+With strong expertise in Python and RPA, I specialize in developing robust data pipelines, automating data workflows, and integrating systems to enhance data accessibility and operational efficiency. My work involves building end-to-end ETL processes, API integrations, and scalable automations using tools like Alteryx and SQL. I'm passionate about solving real-world problems with code and continuously explore modern data engineering practices to drive impact.
 
 ## My Skills
 
@@ -10,7 +9,6 @@ With strong expertise in Python and RPA, I specialize in developing end-to-end a
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![UiPath](https://img.shields.io/badge/UiPath-FE3C00.svg?style=for-the-badge&logo=uipath&logoColor=white)
 ![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF6D00.svg?style=for-the-badge&logo=automationanywhere&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF.svg?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 ![Alteryx](https://img.shields.io/badge/Alteryx-0078C0.svg?style=for-the-badge&logo=Alteryx&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
@@ -27,6 +25,8 @@ With strong expertise in Python and RPA, I specialize in developing end-to-end a
 #### ☁️ Cloud:
 
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 #### 🗄️ Databases:
 
