@@ -22,6 +22,16 @@ With strong expertise in Python and RPA, I specialize in developing robust data 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)&nbsp;
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)&nbsp;
 
+#### ⚙️ Automation & ETL Tools:
+
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0.svg?style=for-the-badge&logo=Alteryx&logoColor=white)&nbsp;
+![UiPath](https://img.shields.io/badge/UiPath-FE3C00.svg?style=for-the-badge&logo=uipath&logoColor=white)&nbsp;
+![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF6D00.svg?style=for-the-badge&logo=automationanywhere&logoColor=white)&nbsp;
+![KNIME](https://img.shields.io/badge/KNIME-FFA500?style=for-the-badge&logo=knime&logoColor=white)&nbsp;
+![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-2D72D9?style=for-the-badge&logo=apache&logoColor=white)&nbsp;
+![Pentaho](https://img.shields.io/badge/Pentaho-FF4700?style=for-the-badge&logo=data&logoColor=white)&nbsp;
+
+
 #### ☁️ Cloud:
 
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)&nbsp;
