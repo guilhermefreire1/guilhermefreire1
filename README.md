@@ -1,6 +1,6 @@
 I build data-driven automation solutions to streamline and scale processes.
 <br><br>
-With strong expertise in Python and RPA, I specialize in developing robust data pipelines, automating data workflows, and integrating systems to enhance data accessibility and operational efficiency. My work involves building end-to-end ETL processes, API integrations, and scalable automations using tools like Alteryx and SQL. I'm passionate about solving real-world problems with code and continuously explore modern data engineering practices to drive impact.
+With strong expertise in Python and automation, I specialize in developing scalable data engineering solutions that integrate systems, streamline workflows, and ensure reliable access to information. My work includes building end-to-end ETL pipelines, automating repetitive tasks with RPA, and orchestrating data processes across APIs, databases, and business tools. I have hands-on experience with tools like Alteryx, SQL, and cloud platforms, always aiming for efficiency, maintainability, and real-world impact. I'm passionate about using code to eliminate bottlenecks and continuously explore modern data architecture and automation strategies to support data-driven decisions.
 
 ## My Skills
 
