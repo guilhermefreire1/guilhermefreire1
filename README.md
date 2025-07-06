@@ -7,12 +7,12 @@ With strong expertise in Python and RPA, I specialize in developing robust data 
 #### 🚀 Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![UiPath](https://img.shields.io/badge/UiPath-FE3C00.svg?style=for-the-badge&logo=uipath&logoColor=white)
-![Automation Anywhere](https://img.shields.io/badge/Automation%20Anywhere-FF6D00.svg?style=for-the-badge&logo=automationanywhere&logoColor=white)
-![Alteryx](https://img.shields.io/badge/Alteryx-0078C0.svg?style=for-the-badge&logo=Alteryx&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 #### ⚙️ Engineering Tools:
 
